@@ -25,13 +25,12 @@ This project showcases real-world app architecture, full-stack integration, and 
 - React.js
 - Axios (for API requests)
 - React Router
-- Tailwind CSS / CSS Modules
+- Bootstrap CSS / CSS Modules
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB (with Mongoose)
-- JWT for Authentication
 
 ---
 
